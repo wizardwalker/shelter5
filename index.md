@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##看，是外星人！！！
 
 You can use the [editor on GitHub](https://github.com/wizardwalker/shelter5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
